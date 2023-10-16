@@ -1,57 +1,36 @@
-## Mikhail Sendik
-#### Machine learning engineer / Data Scientist
-**Fields of interest:** Transformers, Graphs, Generative models
+<h1 align="center">Hi 👋, I'm Mihail Sendik</h1>
+<h3 align="center">Entry-level machine learning programmer</h3>
 
-</br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=uutotora&label=Profile%20views&color=0e75b6&style=flat" alt="uutotora" /> </p>
 
-### 📊 ML stack
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
-  </a>
-  
-  <a href="https://pytorch.org" target="_blank"> 
-    <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="pytorch" width="45" height="45"/>
-  </a>
-  
-   <a href="https://pytorch-geometric.readthedocs.io/en/latest/#" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/pyg-team/pyg_sphinx_theme/master/pyg_sphinx_theme/static/img/pyg_logo.png" alt="pytorch-geometric" width="40" height="40"/>
-  </a>
-  
-  <a href="https://networkx.org" target="_blank"> 
-    <img src="https://avatars.githubusercontent.com/u/388785?s=280&v=4" alt="albumentations" width="40" height="40"/>
-  </a>
+- 🔭 I’m currently working on **myself**
 
-  <a href="https://huggingface.co" target="_blank"> 
-    <img src="https://uptime-storage.s3.amazonaws.com/logos/d32f5c39b694f3e64d29fc2c9b988cdd.png" alt="huggingface" width="40" height="40"/>
-  </a>
-  
-  <a href="https://wandb.ai/site" target="_blank"> 
-    <img src="https://wandb.ai/logo.png" alt="wandb" width="40" height="40"/>
-  </a>
+- 🌱 I’m currently learning **NLP and CV**
 
-  <a href="https://catboost.ai" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png" alt="catbost" width="40" height="40"/>
-  </a>
+- 👯 I’m looking to collaborate on **Food/recipe detection**
 
-  <a href="https://optuna.readthedocs.io/en/stable/#" target="_blank"> 
-    <img src="https://avatars.githubusercontent.com/u/57251745?s=280&v=4" alt="catbost" width="40" height="40"/>
-  </a>
-  
-  <a href="https://pandas.pydata.org" target="_blank"> 
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT01Ctpf3nRjz7b9l-om2h2llNA0jL4d_MVtXXXHVF5mWIn5nyMXLgzYscFGZdbhf_LN8M&usqp=CAU" alt="pandas" width="40" height="40"/>
-  </a>
-  
-  <a href="https://spark.apache.org" target="_blank"> 
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170560.png" alt="spark" width="40" height="40"/>
-  </a>
-  
-  <a href="https://plotly.com" target="_blank"> 
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/plot_ly_logo_icon_168902.png" alt="plotly" width="40" height="40"/>
-  </a>
-  
-  <a href="https://seaborn.pydata.org" target="_blank"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  </a>
-  
+- 👨‍💻 All of my projects are available at [https://github.com/Uutotora](https://github.com/Uutotora)
+
+- 💬 Ask me about **ransformers, Graphs, Generative models**
+
+- 📫 How to reach me **Uutotora@gmail.com**
+
+- 📄 Know about my experiences [https://github.com/Uutotora](https://github.com/Uutotora)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://kaggle.com/uutotora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="uutotora" height="30" width="40" /></a>
+<a href="https://instagram.com/utotora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="utotora" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/utotora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="utotora" height="30" width="40" /></a>
+<a href="https://discord.gg/uutotora#uutotora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="uutotora#uutotora" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uutotora&show_icons=true&locale=en&layout=compact" alt="uutotora" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uutotora&show_icons=true&locale=en" alt="uutotora" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uutotora&" alt="uutotora" /></p>
+
