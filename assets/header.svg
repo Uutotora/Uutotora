@@ -25,11 +25,18 @@
   <rect width="1200" height="420" rx="0" fill="url(#bg)"/>
   <rect width="1200" height="420" fill="url(#grid)"/>
 
-  <path d="M730 86C809 54 884 68 949 117C1014 166 1099 167 1144 134" stroke="url(#accent)" stroke-opacity="0.38" stroke-width="2"/>
-  <path d="M661 333C745 267 817 279 883 309C955 342 1017 348 1080 292" stroke="#72F6A2" stroke-opacity="0.28" stroke-width="2"/>
-  <path d="M56 320C156 262 230 278 300 319C369 360 442 362 536 301" stroke="#00D1FF" stroke-opacity="0.25" stroke-width="2"/>
+  <path d="M730 86C809 54 884 68 949 117C1014 166 1099 167 1144 134" stroke="url(#accent)" stroke-opacity="0.38" stroke-width="2" stroke-dasharray="24 14">
+    <animate attributeName="stroke-dashoffset" values="0;-152" dur="6s" repeatCount="indefinite"/>
+  </path>
+  <path d="M661 333C745 267 817 279 883 309C955 342 1017 348 1080 292" stroke="#72F6A2" stroke-opacity="0.28" stroke-width="2" stroke-dasharray="18 18">
+    <animate attributeName="stroke-dashoffset" values="0;144" dur="7s" repeatCount="indefinite"/>
+  </path>
+  <path d="M56 320C156 262 230 278 300 319C369 360 442 362 536 301" stroke="#00D1FF" stroke-opacity="0.25" stroke-width="2" stroke-dasharray="20 12">
+    <animate attributeName="stroke-dashoffset" values="0;-128" dur="6.5s" repeatCount="indefinite"/>
+  </path>
 
   <g opacity="0.86" filter="url(#glow)">
+    <animate attributeName="opacity" values="0.58;0.96;0.58" dur="4.8s" repeatCount="indefinite"/>
     <circle cx="794" cy="105" r="5" fill="#00D1FF"/>
     <circle cx="875" cy="83" r="5" fill="#72F6A2"/>
     <circle cx="954" cy="121" r="5" fill="#FFB86B"/>
@@ -59,20 +66,24 @@
     <rect x="0" y="0" width="180" height="96" rx="16" fill="#06101A" fill-opacity="0.72" stroke="#00D1FF" stroke-opacity="0.55"/>
     <text x="24" y="38" fill="#F6FBFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="800">50k+</text>
     <text x="24" y="66" fill="#9BB8C4" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">fraud accounts blocked</text>
+    <animateTransform attributeName="transform" type="translate" values="640 88;640 76;640 88" dur="5.2s" repeatCount="indefinite"/>
   </g>
   <g transform="translate(846 88)">
     <rect x="0" y="0" width="180" height="96" rx="16" fill="#06101A" fill-opacity="0.72" stroke="#72F6A2" stroke-opacity="0.55"/>
     <text x="24" y="38" fill="#F6FBFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="800">95%</text>
     <text x="24" y="66" fill="#9BB8C4" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">CV model accuracy</text>
+    <animateTransform attributeName="transform" type="translate" values="846 88;846 100;846 88" dur="5.6s" repeatCount="indefinite"/>
   </g>
   <g transform="translate(640 210)">
     <rect x="0" y="0" width="180" height="96" rx="16" fill="#06101A" fill-opacity="0.72" stroke="#FFB86B" stroke-opacity="0.55"/>
     <text x="24" y="38" fill="#F6FBFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="800">7M+</text>
     <text x="24" y="66" fill="#9BB8C4" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">rows monitored</text>
+    <animateTransform attributeName="transform" type="translate" values="640 210;640 222;640 210" dur="6s" repeatCount="indefinite"/>
   </g>
   <g transform="translate(846 210)">
     <rect x="0" y="0" width="180" height="96" rx="16" fill="#06101A" fill-opacity="0.72" stroke="#00D1FF" stroke-opacity="0.55"/>
     <text x="24" y="38" fill="#F6FBFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="800">3.5k+</text>
     <text x="24" y="66" fill="#9BB8C4" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">active bot users</text>
+    <animateTransform attributeName="transform" type="translate" values="846 210;846 198;846 210" dur="5.4s" repeatCount="indefinite"/>
   </g>
 </svg>
