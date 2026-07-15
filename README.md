@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:07111F,45:10283A,75:0D7377,100:FFB86B&section=header&reversal=false" width="100%" alt="" />
-</p>
-
-<p align="center">
   <img src="./assets/header.svg" width="100%" alt="Mikhail Sendik - Applied AI and ML Engineer" />
 </p>
 
@@ -13,34 +9,44 @@
 </p>
 
 <p align="center">
-  <a href="mailto:uutotora@gmail.com"><img src="https://img.shields.io/badge/email-uutotora%40gmail.com-00D1FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=07111F" alt="Email" /></a>
-  <a href="https://t.me/u2ora"><img src="https://img.shields.io/badge/telegram-@u2ora-72F6A2?style=for-the-badge&logo=telegram&logoColor=07111F&labelColor=07111F" alt="Telegram" /></a>
-  <a href="https://www.kaggle.com/uutotora"><img src="https://img.shields.io/badge/kaggle-uutotora-00D1FF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=07111F" alt="Kaggle" /></a>
-  <a href="https://leetcode.com/utotora"><img src="https://img.shields.io/badge/leetcode-utotora-FFB86B?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=07111F" alt="LeetCode" /></a>
-  <img src="https://img.shields.io/badge/English-C1-151419?style=for-the-badge&labelColor=FFB86B" alt="English C1" />
-  <img src="https://komarev.com/ghpvc/?username=Uutotora&style=for-the-badge&color=00D1FF&label=PROFILE+VIEWS" alt="Profile views" />
+  <a href="mailto:uutotora@gmail.com"><img height="28" src="https://img.shields.io/badge/Email-uutotora%40gmail.com-00D1FF?style=flat-square&logo=gmail&logoColor=white&labelColor=07111F" alt="Email" /></a>
+  <a href="https://t.me/u2ora"><img height="28" src="https://img.shields.io/badge/Telegram-@u2ora-72F6A2?style=flat-square&logo=telegram&logoColor=07111F&labelColor=07111F" alt="Telegram" /></a>
+  <a href="https://www.kaggle.com/uutotora"><img height="28" src="https://img.shields.io/badge/Kaggle-uutotora-00D1FF?style=flat-square&logo=kaggle&logoColor=white&labelColor=07111F" alt="Kaggle" /></a>
+  <a href="https://leetcode.com/utotora"><img height="28" src="https://img.shields.io/badge/LeetCode-utotora-FFB86B?style=flat-square&logo=leetcode&logoColor=white&labelColor=07111F" alt="LeetCode" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Uutotora&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=6&rank=-C,-B" alt="GitHub trophies" />
+  <img height="28" src="https://img.shields.io/badge/English-C1-151419?style=flat-square&labelColor=FFB86B" alt="English C1" />
+  <img height="28" src="https://komarev.com/ghpvc/?username=Uutotora&style=flat-square&color=00D1FF&label=Profile+views" alt="Profile views" />
 </p>
 
-<img align="right" width="390" src="./assets/impact-lab.svg" alt="Animated impact lab panel" />
+<br />
 
-## Signal
-
-I am **Mikhail Sendik**, an ML Engineer building production-grade Applied AI: classical ML, LLM/NLP systems, computer vision pipelines, API services, monitoring, and MLOps.
-
-My strongest zone is the place where models become products: data pipelines, model quality, backend contracts, deployment, monitoring, and measurable business impact.
-
-```python
-class MikhailSendik:
+<table>
+  <tr>
+    <td width="54%" valign="top">
+      <h2>Signal</h2>
+      <p>
+        I am <b>Mikhail Sendik</b>, an ML Engineer building production-grade Applied AI:
+        classical ML, LLM/NLP systems, computer vision pipelines, API services,
+        monitoring, and MLOps.
+      </p>
+      <p>
+        My strongest zone is the place where models become products:
+        data pipelines, model quality, backend contracts, deployment,
+        monitoring, and measurable business impact.
+      </p>
+      <pre lang="python"><code>class MikhailSendik:
     role = "ML Engineer / Applied AI Engineer"
-    base = ["classical ML", "feature engineering", "production APIs"]
-    current = ["LLM agents", "RAG", "Text-to-SQL", "Computer Vision"]
-    ships_with = ["FastAPI", "Docker", "Airflow", "PostgreSQL", "ClickHouse"]
-    mindset = "prototype fast, validate hard, deploy clean"
-```
+    base = ["classical ML", "feature engineering"]
+    current = ["LLM agents", "RAG", "Text-to-SQL", "CV"]
+    ships_with = ["FastAPI", "Docker", "Airflow", "ClickHouse"]</code></pre>
+    </td>
+    <td width="46%" valign="top">
+      <img src="./assets/impact-lab.svg" width="100%" alt="Animated impact lab panel" />
+    </td>
+  </tr>
+</table>
 
 ## Impact Board
 
