@@ -1,36 +1,108 @@
-<h1 align="center">Hi 👋, I'm Mihail Sendik</h1>
-<h3 align="center">Entry-level machine learning programmer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uutotora&label=Profile%20views&color=0e75b6&style=flat" alt="uutotora" /> </p>
-
-- 🔭 I’m currently working on **myself**
-
-- 🌱 I’m currently learning **NLP and CV**
-
-- 👯 I’m looking to collaborate on **Food/recipe detection**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Uutotora](https://github.com/Uutotora)
-
-- 💬 Ask me about **ransformers, Graphs, Generative models**
-
-- 📫 How to reach me **Uutotora@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/Uutotora](https://github.com/Uutotora)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://kaggle.com/uutotora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="uutotora" height="30" width="40" /></a>
-<a href="https://instagram.com/utotora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="utotora" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/utotora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="utotora" height="30" width="40" /></a>
-<a href="https://discord.gg/uutotora#uutotora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="uutotora#uutotora" height="30" width="40" /></a>
+<p align="center">
+  <img src="./assets/header.svg" alt="Mikhail Sendik - ML Engineer" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="mailto:uutotora@gmail.com"><img src="https://img.shields.io/badge/email-uutotora%40gmail.com-00D1FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=07111F" alt="Email" /></a>
+  <a href="https://t.me/u2ora"><img src="https://img.shields.io/badge/telegram-@u2ora-72F6A2?style=for-the-badge&logo=telegram&logoColor=07111F&labelColor=07111F" alt="Telegram" /></a>
+  <a href="https://www.kaggle.com/uutotora"><img src="https://img.shields.io/badge/kaggle-uutotora-00D1FF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=07111F" alt="Kaggle" /></a>
+  <a href="https://leetcode.com/utotora"><img src="https://img.shields.io/badge/leetcode-utotora-FFB86B?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=07111F" alt="LeetCode" /></a>
+  <img src="https://img.shields.io/badge/English-C1-FFB86B?style=for-the-badge&labelColor=07111F" alt="English C1" />
+  <img src="https://komarev.com/ghpvc/?username=Uutotora&style=for-the-badge&color=00D1FF&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uutotora&show_icons=true&locale=en&layout=compact" alt="uutotora" /></p>
+## What I Build
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uutotora&show_icons=true&locale=en" alt="uutotora" /></p>
+I am an ML Engineer focused on **Applied AI systems that reach production**: classical ML for tabular data, LLM/NLP products, computer vision pipelines, REST APIs, and MLOps around real users and real metrics.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uutotora&" alt="uutotora" /></p>
+```python
+focus = {
+    "production_ml": ["FastAPI", "Docker", "Airflow", "W&B", "DVC", "MLflow"],
+    "llm_systems": ["RAG", "agents", "Text-to-SQL", "LangChain", "Gemma", "GPT-4"],
+    "computer_vision": ["UNet++", "YOLOv8", "SAM", "OpenCV", "MediaPipe", "GAN"],
+    "data": ["PostgreSQL", "ClickHouse", "Qdrant", "ETL", "feature engineering"],
+}
+```
 
+## Impact Snapshot
+
+| Area | Result |
+|---|---|
+| Real-time anomaly monitoring | Reduced incident reaction time from days to minutes |
+| Anti-fraud analytics | Automatically blocked **50,000+** bot accounts |
+| LLM analytics agent | Cut report preparation from **1 day to 1 hour** |
+| GAN avatar API | Served **10,000+** generation requests in production |
+| CV recipe pipeline | Trained UNet++ on **70,000+** images with about **95%** accuracy |
+| Telegram AI platform | Built a multi-agent product with **3,500+** active users |
+
+## Featured Work
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Real-Time Anomaly Monitor</h3>
+      <p>Product and operational metrics aggregation for high-traffic Moscow Government digital services.</p>
+      <p><b>Stack:</b> Python, ClickHouse, PostgreSQL, Airflow, FastAPI, Docker</p>
+    </td>
+    <td width="50%">
+      <h3>LLM Analytics Agent</h3>
+      <p>Gemma-based agent for HTML parsing, SQL generation, and automated analytical reporting.</p>
+      <p><b>Stack:</b> Gemma, LangChain, SQL, PostgreSQL, prompt engineering</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Food CV + Recommendation Pipeline</h3>
+      <p>End-to-end mobile pipeline: food detection, embedding search, and recipe recommendations.</p>
+      <p><b>Stack:</b> PyTorch, UNet++, OpenCV, Qdrant, DVC, FastAPI</p>
+    </td>
+    <td width="50%">
+      <h3>Applied AI Independent Projects</h3>
+      <p>Text-to-SQL, CatBoost real estate valuation, pose estimation for exercise quality, and multi-agent AI bots.</p>
+      <p><b>Stack:</b> GPT-4, CatBoost, MediaPipe, scikit-learn, PostgreSQL</p>
+    </td>
+  </tr>
+</table>
+
+## Public Repositories
+
+<p>
+  <a href="https://github.com/Uutotora/cellseg1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Uutotora&repo=cellseg1&theme=tokyonight&hide_border=true&title_color=72F6A2&icon_color=00D1FF" alt="cellseg1 pinned repository" />
+  </a>
+  <a href="https://github.com/Uutotora/futballe">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Uutotora&repo=futballe&theme=tokyonight&hide_border=true&title_color=FFB86B&icon_color=00D1FF" alt="futballe pinned repository" />
+  </a>
+</p>
+
+## Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,opencv,fastapi,docker,postgres,git,linux&theme=dark" alt="Core stack icons" />
+</p>
+
+**ML/DL:** PyTorch, scikit-learn, CatBoost, Keras, Transformers, Hugging Face  
+**LLM/NLP:** GPT-4, Gemma, LLaMA, LangChain, RAG, Text-to-SQL, agents  
+**CV:** OpenCV, YOLOv8, UNet++, SAM, MediaPipe, GAN  
+**MLOps:** Docker, DVC, W&B, MLflow, Airflow, FastAPI, CI/CD  
+**Data:** PostgreSQL, ClickHouse, Qdrant, SQL, ETL  
+**Cloud:** Yandex Cloud, Linux
+
+## GitHub Pulse
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Uutotora&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&title_color=72F6A2&icon_color=00D1FF" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=Uutotora&theme=tokyonight&hide_border=true&ring=72F6A2&fire=FFB86B&currStreakLabel=72F6A2" alt="GitHub streak" />
+</p>
+
+## Current Direction
+
+I am looking for ML Engineer / Applied AI Engineer roles where I can build production AI products with measurable impact, strong engineering discipline, and close collaboration with product and analytics teams.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,19,24" alt="" width="100%" />
+</p>
+
+<p align="center">
+  <b>Production-first ML. Clear product impact. Systems that survive real usage.</b>
+</p>

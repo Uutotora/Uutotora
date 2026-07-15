@@ -1,0 +1,78 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Mikhail Sendik - ML Engineer</title>
+  <desc id="desc">A dark technical GitHub profile banner with neural network lines, metric panels, and Applied AI positioning.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#07111F"/>
+      <stop offset="0.45" stop-color="#10283A"/>
+      <stop offset="1" stop-color="#151419"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="125" y1="80" x2="1054" y2="339" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00D1FF"/>
+      <stop offset="0.5" stop-color="#72F6A2"/>
+      <stop offset="1" stop-color="#FFB86B"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.15 0 0 0 0 0.85 0 0 0 0 1 0 0 0 0.65 0"/>
+      <feBlend in="SourceGraphic" mode="screen"/>
+    </filter>
+    <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse">
+      <path d="M38 0H0V38" stroke="#FFFFFF" stroke-opacity="0.055"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="420" rx="0" fill="url(#bg)"/>
+  <rect width="1200" height="420" fill="url(#grid)"/>
+
+  <path d="M730 86C809 54 884 68 949 117C1014 166 1099 167 1144 134" stroke="url(#accent)" stroke-opacity="0.38" stroke-width="2"/>
+  <path d="M661 333C745 267 817 279 883 309C955 342 1017 348 1080 292" stroke="#72F6A2" stroke-opacity="0.28" stroke-width="2"/>
+  <path d="M56 320C156 262 230 278 300 319C369 360 442 362 536 301" stroke="#00D1FF" stroke-opacity="0.25" stroke-width="2"/>
+
+  <g opacity="0.86" filter="url(#glow)">
+    <circle cx="794" cy="105" r="5" fill="#00D1FF"/>
+    <circle cx="875" cy="83" r="5" fill="#72F6A2"/>
+    <circle cx="954" cy="121" r="5" fill="#FFB86B"/>
+    <circle cx="1017" cy="147" r="5" fill="#00D1FF"/>
+    <circle cx="1082" cy="133" r="5" fill="#72F6A2"/>
+    <circle cx="736" cy="312" r="5" fill="#72F6A2"/>
+    <circle cx="834" cy="291" r="5" fill="#00D1FF"/>
+    <circle cx="941" cy="330" r="5" fill="#FFB86B"/>
+    <line x1="794" y1="105" x2="875" y2="83" stroke="#EAF7FF" stroke-opacity="0.35"/>
+    <line x1="875" y1="83" x2="954" y2="121" stroke="#EAF7FF" stroke-opacity="0.35"/>
+    <line x1="954" y1="121" x2="1017" y2="147" stroke="#EAF7FF" stroke-opacity="0.35"/>
+    <line x1="1017" y1="147" x2="1082" y2="133" stroke="#EAF7FF" stroke-opacity="0.35"/>
+    <line x1="736" y1="312" x2="834" y2="291" stroke="#EAF7FF" stroke-opacity="0.3"/>
+    <line x1="834" y1="291" x2="941" y2="330" stroke="#EAF7FF" stroke-opacity="0.3"/>
+  </g>
+
+  <g transform="translate(76 66)">
+    <rect x="0" y="0" width="500" height="288" rx="18" fill="#06101A" fill-opacity="0.72" stroke="url(#accent)" stroke-opacity="0.72"/>
+    <text x="34" y="62" fill="#B7FFDF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="1.5">APPLIED AI / ML ENGINEER</text>
+    <text x="34" y="116" fill="#F6FBFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="54" font-weight="800">Mikhail Sendik</text>
+    <text x="34" y="158" fill="#CFE7F1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">Production ML, LLM agents, CV systems</text>
+    <text x="34" y="206" fill="#8FB7C5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17">I turn research ideas into reliable APIs, data pipelines,</text>
+    <text x="34" y="232" fill="#8FB7C5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17">monitoring, and measurable product impact.</text>
+  </g>
+
+  <g transform="translate(640 88)">
+    <rect x="0" y="0" width="180" height="96" rx="16" fill="#06101A" fill-opacity="0.72" stroke="#00D1FF" stroke-opacity="0.55"/>
+    <text x="24" y="38" fill="#F6FBFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="800">50k+</text>
+    <text x="24" y="66" fill="#9BB8C4" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">fraud accounts blocked</text>
+  </g>
+  <g transform="translate(846 88)">
+    <rect x="0" y="0" width="180" height="96" rx="16" fill="#06101A" fill-opacity="0.72" stroke="#72F6A2" stroke-opacity="0.55"/>
+    <text x="24" y="38" fill="#F6FBFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="800">95%</text>
+    <text x="24" y="66" fill="#9BB8C4" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">CV model accuracy</text>
+  </g>
+  <g transform="translate(640 210)">
+    <rect x="0" y="0" width="180" height="96" rx="16" fill="#06101A" fill-opacity="0.72" stroke="#FFB86B" stroke-opacity="0.55"/>
+    <text x="24" y="38" fill="#F6FBFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="800">7M+</text>
+    <text x="24" y="66" fill="#9BB8C4" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">rows monitored</text>
+  </g>
+  <g transform="translate(846 210)">
+    <rect x="0" y="0" width="180" height="96" rx="16" fill="#06101A" fill-opacity="0.72" stroke="#00D1FF" stroke-opacity="0.55"/>
+    <text x="24" y="38" fill="#F6FBFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="800">3.5k+</text>
+    <text x="24" y="66" fill="#9BB8C4" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">active bot users</text>
+  </g>
+</svg>
