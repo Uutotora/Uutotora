@@ -23,27 +23,29 @@
 
 <br />
 
-## 🎵 Greatest Hits
+## 🎙 About
 
-No corporate track record here — just the tracks. Six things I actually built over 3+ years of doing this, played back at full volume.
-
-<sub>unofficial concept album · no label · all masters self-produced</sub>
-
-**Side A**
-
-1. **Insomnia (Anomaly Radio Edit)** — real-time metrics monitor. Turned "we'll notice in three days" into "we noticed in three minutes."
-2. **50.000 Bots Can't Dance** — Z-score + pattern-matching anti-fraud engine, quietly deleting an entire fake audience.
-3. **Report in un'Ora** — an LLM agent that parses HTML, writes SQL and drafts the analytics report nobody wanted to write by hand. Cut a full day down to an hour.
-
-**Side B**
-
-4. **Un Volto per Te (GAN Remix)** — production avatar-generation API, 10,000+ requests served without breaking a sweat.
-5. **Riconosco il Tuo Pranzo** — food-recognition pipeline, ~95% accuracy across 100+ categories, trained on 70,000 self-collected photos.
-6. **Tutti Insieme in Telegram** — multi-agent bot mixing text, image and video generation, currently entertaining 3,500+ people who apparently have better things to do.
+ML Engineer, 3+ years in, one Adriano Celentano avatar doing a lot of emotional labor. Started in classical ML on tabular data (CatBoost, scikit-learn), then picked up LLM/NLP and Computer Vision the way he picked up genres — badly at first, then suspiciously well. A model that only works in a notebook is a rehearsal, not a show. I ship.
 
 <br />
 
-<sub>Session players on this record: Python, PyTorch, CatBoost, Gemma, GPT-4, LangChain, UNet++, Qdrant, FastAPI, Docker.</sub>
+## 🛠 Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,docker,postgres,git,linux,bash&theme=dark&perline=11" alt="core stack" />
+</p>
+
+**LLM / NLP**
+<br />
+![GPT-4](https://img.shields.io/badge/GPT--4-1A1A1A?style=flat-square) ![Gemma](https://img.shields.io/badge/Gemma-1A1A1A?style=flat-square) ![LLaMA](https://img.shields.io/badge/LLaMA-1A1A1A?style=flat-square) ![LangChain](https://img.shields.io/badge/LangChain-1A1A1A?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-1A1A1A?style=flat-square) ![Text-to-SQL](https://img.shields.io/badge/Text--to--SQL-1A1A1A?style=flat-square) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-1A1A1A?style=flat-square)
+
+**Computer Vision**
+<br />
+![YOLOv8](https://img.shields.io/badge/YOLOv8-1A1A1A?style=flat-square) ![UNet++](https://img.shields.io/badge/UNet%2B%2B-1A1A1A?style=flat-square) ![SAM](https://img.shields.io/badge/SAM-1A1A1A?style=flat-square) ![MediaPipe](https://img.shields.io/badge/MediaPipe-1A1A1A?style=flat-square) ![GAN](https://img.shields.io/badge/GAN-1A1A1A?style=flat-square)
+
+**MLOps / Data**
+<br />
+![CatBoost](https://img.shields.io/badge/CatBoost-1A1A1A?style=flat-square) ![DVC](https://img.shields.io/badge/DVC-1A1A1A?style=flat-square) ![W&B](https://img.shields.io/badge/W%26B-1A1A1A?style=flat-square) ![MLflow](https://img.shields.io/badge/MLflow-1A1A1A?style=flat-square) ![Airflow](https://img.shields.io/badge/Airflow-1A1A1A?style=flat-square) ![ClickHouse](https://img.shields.io/badge/ClickHouse-1A1A1A?style=flat-square) ![Qdrant](https://img.shields.io/badge/Qdrant-1A1A1A?style=flat-square) ![Yandex Cloud](https://img.shields.io/badge/Yandex_Cloud-1A1A1A?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-1A1A1A?style=flat-square)
 
 <br />
 
