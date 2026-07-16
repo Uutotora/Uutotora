@@ -32,20 +32,20 @@ ML Engineer, 3+ years in, one Adriano Celentano avatar doing a lot of emotional 
 ## 🛠 Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,docker,postgres,git,linux,bash&theme=dark&perline=11" alt="core stack" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,docker,kubernetes,postgres,git,linux,bash&theme=dark&perline=12" alt="core stack" />
 </p>
 
 **LLM / NLP**
 <br />
-![GPT-4](https://img.shields.io/badge/GPT--4-1A1A1A?style=flat-square) ![Gemma](https://img.shields.io/badge/Gemma-1A1A1A?style=flat-square) ![LLaMA](https://img.shields.io/badge/LLaMA-1A1A1A?style=flat-square) ![LangChain](https://img.shields.io/badge/LangChain-1A1A1A?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-1A1A1A?style=flat-square) ![Text-to-SQL](https://img.shields.io/badge/Text--to--SQL-1A1A1A?style=flat-square) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-1A1A1A?style=flat-square)
+![GPT-4](https://img.shields.io/badge/GPT--4-1A1A1A?style=flat-square) ![Gemma](https://img.shields.io/badge/Gemma-1A1A1A?style=flat-square) ![LangChain](https://img.shields.io/badge/LangChain-1A1A1A?style=flat-square) ![LangGraph](https://img.shields.io/badge/LangGraph-1A1A1A?style=flat-square) ![MCP](https://img.shields.io/badge/MCP-1A1A1A?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-1A1A1A?style=flat-square) ![Agentic AI](https://img.shields.io/badge/Agentic_AI-1A1A1A?style=flat-square) ![LoRA](https://img.shields.io/badge/LoRA-1A1A1A?style=flat-square) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-1A1A1A?style=flat-square)
 
 **Computer Vision**
 <br />
-![YOLOv8](https://img.shields.io/badge/YOLOv8-1A1A1A?style=flat-square) ![UNet++](https://img.shields.io/badge/UNet%2B%2B-1A1A1A?style=flat-square) ![SAM](https://img.shields.io/badge/SAM-1A1A1A?style=flat-square) ![MediaPipe](https://img.shields.io/badge/MediaPipe-1A1A1A?style=flat-square) ![GAN](https://img.shields.io/badge/GAN-1A1A1A?style=flat-square)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-1A1A1A?style=flat-square) ![SAM 2](https://img.shields.io/badge/SAM_2-1A1A1A?style=flat-square) ![UNet++](https://img.shields.io/badge/UNet%2B%2B-1A1A1A?style=flat-square) ![VLM](https://img.shields.io/badge/VLM-1A1A1A?style=flat-square) ![MediaPipe](https://img.shields.io/badge/MediaPipe-1A1A1A?style=flat-square) ![GAN](https://img.shields.io/badge/GAN-1A1A1A?style=flat-square)
 
 **MLOps / Data**
 <br />
-![CatBoost](https://img.shields.io/badge/CatBoost-1A1A1A?style=flat-square) ![DVC](https://img.shields.io/badge/DVC-1A1A1A?style=flat-square) ![W&B](https://img.shields.io/badge/W%26B-1A1A1A?style=flat-square) ![MLflow](https://img.shields.io/badge/MLflow-1A1A1A?style=flat-square) ![Airflow](https://img.shields.io/badge/Airflow-1A1A1A?style=flat-square) ![ClickHouse](https://img.shields.io/badge/ClickHouse-1A1A1A?style=flat-square) ![Qdrant](https://img.shields.io/badge/Qdrant-1A1A1A?style=flat-square) ![Yandex Cloud](https://img.shields.io/badge/Yandex_Cloud-1A1A1A?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-1A1A1A?style=flat-square)
+![CatBoost](https://img.shields.io/badge/CatBoost-1A1A1A?style=flat-square) ![MLflow](https://img.shields.io/badge/MLflow-1A1A1A?style=flat-square) ![W&B](https://img.shields.io/badge/W%26B-1A1A1A?style=flat-square) ![LangSmith](https://img.shields.io/badge/LangSmith-1A1A1A?style=flat-square) ![Airflow](https://img.shields.io/badge/Airflow-1A1A1A?style=flat-square) ![ClickHouse](https://img.shields.io/badge/ClickHouse-1A1A1A?style=flat-square) ![Qdrant](https://img.shields.io/badge/Qdrant-1A1A1A?style=flat-square) ![Yandex Cloud](https://img.shields.io/badge/Yandex_Cloud-1A1A1A?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-1A1A1A?style=flat-square)
 
 <br />
 
@@ -65,12 +65,6 @@ The unglamorous part — commits, streaks and languages, updated automatically s
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Uutotora&theme=gruvbox&no-frame=true&row=1&column=6&margin-w=8" alt="Trophies" />
 </p>
-
-<br />
-
-## 🎓 Education
-
-Still finishing my Master's at **НИТУ МИСиС, ИТКН** — the Bachelor's happened there too, 2021–2025. Topped it off with Hard ML at Karpov.Courses and the Deep Learning School at MIPT, plus a couple of hackathons spent segmenting satellite photos at 3am, as one does («Цифровой прорыв», «Лидеры цифровой трансформации»).
 
 <br />
 
