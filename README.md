@@ -23,13 +23,9 @@
 
 <br />
 
-## 🎙 About
-
-ML Engineer, 3+ years in, one Adriano Celentano avatar doing a lot of emotional labor. Started in classical ML on tabular data (CatBoost, scikit-learn), then picked up LLM/NLP and Computer Vision the way he picked up genres — badly at first, then suspiciously well. A model that only works in a notebook is a rehearsal, not a show. I ship.
-
-<br />
-
 ## 🎵 Greatest Hits
+
+No corporate track record here — just the tracks. Six things I actually built over 3+ years of doing this, played back at full volume.
 
 <sub>unofficial concept album · no label · all masters self-produced</sub>
 
@@ -47,48 +43,17 @@ ML Engineer, 3+ years in, one Adriano Celentano avatar doing a lot of emotional 
 
 <br />
 
-`Python` `PyTorch` `CatBoost` `Gemma` `GPT-4` `LangChain` `UNet++` `Qdrant` `FastAPI` `Docker`
-
-<br />
-
-## 🛠 Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,docker,postgres,git,linux,bash&theme=dark&perline=11" alt="core stack" />
-</p>
-
-**LLM / NLP**
-<br />
-![GPT-4](https://img.shields.io/badge/GPT--4-1A1A1A?style=flat-square) ![LangChain](https://img.shields.io/badge/LangChain-1A1A1A?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-1A1A1A?style=flat-square) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-1A1A1A?style=flat-square)
-
-**Computer Vision**
-<br />
-![YOLOv8](https://img.shields.io/badge/YOLOv8-1A1A1A?style=flat-square) ![UNet++](https://img.shields.io/badge/UNet%2B%2B-1A1A1A?style=flat-square) ![SAM](https://img.shields.io/badge/SAM-1A1A1A?style=flat-square) ![GAN](https://img.shields.io/badge/GAN-1A1A1A?style=flat-square)
-
-**MLOps / Data**
-<br />
-![CatBoost](https://img.shields.io/badge/CatBoost-1A1A1A?style=flat-square) ![W&B](https://img.shields.io/badge/W%26B-1A1A1A?style=flat-square) ![ClickHouse](https://img.shields.io/badge/ClickHouse-1A1A1A?style=flat-square) ![Qdrant](https://img.shields.io/badge/Qdrant-1A1A1A?style=flat-square) ![Yandex Cloud](https://img.shields.io/badge/Yandex_Cloud-1A1A1A?style=flat-square)
-
-<br />
-
-## 🎬 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Uutotora/cellseg1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Uutotora&repo=cellseg1&hide_border=true&bg_color=0D0D0D&title_color=D4AF37&icon_color=D4AF37&text_color=F2F2F2" alt="cellseg1" />
-  </a>
-  <a href="https://github.com/Uutotora/futballe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Uutotora&repo=futballe&hide_border=true&bg_color=0D0D0D&title_color=D4AF37&icon_color=D4AF37&text_color=F2F2F2" alt="futballe" />
-  </a>
-</p>
+<sub>Session players on this record: Python, PyTorch, CatBoost, Gemma, GPT-4, LangChain, UNet++, Qdrant, FastAPI, Docker.</sub>
 
 <br />
 
 ## 📊 GitHub Activity
 
+The unglamorous part — commits, streaks and languages, updated automatically so I don't have to brag about it manually.
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Uutotora&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D0D0D&title_color=D4AF37&icon_color=D4AF37&text_color=F2F2F2" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uutotora&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=D4AF37&text_color=F2F2F2" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Uutotora&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D0D0D&title_color=D4AF37&icon_color=D4AF37&text_color=F2F2F2" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uutotora&layout=compact&hide_border=true&langs_count=8&bg_color=0D0D0D&title_color=D4AF37&text_color=F2F2F2" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -96,26 +61,22 @@ ML Engineer, 3+ years in, one Adriano Celentano avatar doing a lot of emotional 
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Uutotora&theme=radical&no-frame=true&row=1&column=6&margin-w=8" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Uutotora&theme=gruvbox&no-frame=true&row=1&column=6&margin-w=8" alt="Trophies" />
 </p>
 
 <br />
 
 ## 🎓 Education
 
-**НИТУ МИСиС, ИТКН** — MSc, 2025–present · BSc, 2021–2025
-<br />
-Also: Hard ML by Karpov.Courses (2024, applied PyTorch & Deep Learning) · Deep Learning School, MIPT (2022–2023, CV & NLP)
-<br />
-Hackathons: «Цифровой прорыв» (satellite/aerial image segmentation) · «Лидеры цифровой трансформации» (CV track)
+Still finishing my Master's at **НИТУ МИСиС, ИТКН** — the Bachelor's happened there too, 2021–2025. Topped it off with Hard ML at Karpov.Courses and the Deep Learning School at MIPT, plus a couple of hackathons spent segmenting satellite photos at 3am, as one does («Цифровой прорыв», «Лидеры цифровой трансформации»).
 
 <br />
 
 ## 🤝 Let's talk
 
-Open to ML Engineer / Applied AI Engineer roles with real production stakes — not just notebooks.
+Looking for an ML Engineer / Applied AI Engineer role where the model actually reaches production, not just demo day. If that sounds like your team — say ciao.
 <br />
-Best way to reach me: **[Telegram](https://t.me/u2ora)** or **[email](mailto:uutotora@gmail.com)**.
+Fastest way to get an actual reply: **[Telegram](https://t.me/u2ora)** or **[email](mailto:uutotora@gmail.com)**.
 
 <div align="center">
 <sub>Il ragazzo del machine learning 🕺 — grazie, e alla prossima commit.</sub>
