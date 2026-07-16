@@ -25,54 +25,29 @@
 
 ## 🎙 About
 
-ML Engineer with 3+ years of commercial experience — started in classical ML on tabular data (CatBoost, scikit-learn, feature engineering), then grew into LLM/NLP and Computer Vision without ever leaving production. I ship things end to end: fine-tuning, RAG pipelines, REST APIs, Docker, monitoring — not just notebooks that die after the demo.
-
-The avatar isn't random. Celentano's whole act was proving that a good show only works if there's real craft behind the swagger — nail the fundamentals first, then make it look effortless. That's roughly my approach to shipping models.
+ML Engineer, 3+ years in, one Adriano Celentano avatar doing a lot of emotional labor. Started in classical ML on tabular data (CatBoost, scikit-learn), then picked up LLM/NLP and Computer Vision the way he picked up genres — badly at first, then suspiciously well. A model that only works in a notebook is a rehearsal, not a show. I ship.
 
 <br />
 
-## ⚡ Highlights
+## 🎵 Greatest Hits
 
-<details open>
-<summary><b>ГКУ «Новые технологии управления» — ML Engineer · May 2024 – present</b></summary>
+<sub>unofficial concept album · no label · all masters self-produced</sub>
+
+**Side A**
+
+1. **Insomnia (Anomaly Radio Edit)** — real-time metrics monitor. Turned "we'll notice in three days" into "we noticed in three minutes."
+2. **50.000 Bots Can't Dance** — Z-score + pattern-matching anti-fraud engine, quietly deleting an entire fake audience.
+3. **Report in un'Ora** — an LLM agent that parses HTML, writes SQL and drafts the analytics report nobody wanted to write by hand. Cut a full day down to an hour.
+
+**Side B**
+
+4. **Un Volto per Te (GAN Remix)** — production avatar-generation API, 10,000+ requests served without breaking a sweat.
+5. **Riconosco il Tuo Pranzo** — food-recognition pipeline, ~95% accuracy across 100+ categories, trained on 70,000 self-collected photos.
+6. **Tutti Insieme in Telegram** — multi-agent bot mixing text, image and video generation, currently entertaining 3,500+ people who apparently have better things to do.
+
 <br />
 
-Digital services for the Moscow city government — «Активный гражданин», «Наш город» and more, multi-million user base.
-
-- 🚨 Designed and shipped an **anomaly monitor**: real-time aggregation of product and operational metrics — incident reaction time dropped from days to minutes.
-- 🛡 Built an **anti-fraud system** on Z-score and pattern analysis, auto-blocking **50,000+** bot accounts.
-- 🤖 Built an **LLM agent (Gemma)** for HTML parsing, SQL generation and analytical reports — report prep time went from 1 day to 1 hour.
-- 🎨 Shipped a **production GAN avatar-generation API** for a kids' product — 10,000+ requests served, 7M+ row datasets monitored.
-- 🧭 Technical coordinator for a **voting-platform launch** used across 500+ votes — wrote functional specs, worked with designers and analysts.
-
-`Python` `PyTorch` `Gemma` `LangChain` `FastAPI` `Docker` `PostgreSQL` `ClickHouse` `W&B` `Airflow` `Yandex Cloud`
-</details>
-
-<details>
-<summary><b>Стартап «Смарт Рецепты» — ML Engineer · Feb 2023 – Aug 2024</b></summary>
-<br />
-
-Full-cycle CV pipeline for a mobile app, from R&D to production.
-
-- 📷 Built an end-to-end **CV pipeline**: food detection + vector search over relevant recipes.
-- 🎯 Fine-tuned **UNet++** on a self-collected 70,000+ image dataset — ~95% accuracy across 100+ categories.
-- 🔎 Built a **recommendation engine** on embeddings using Qdrant.
-- 📦 Managed model versioning with **DVC**; led the project's move from R&D to production.
-
-`Python` `PyTorch` `UNet++` `OpenCV` `Qdrant` `DVC` `FastAPI` `Docker`
-</details>
-
-<details>
-<summary><b>Independent projects — ML Engineer / NLP Developer · Jan 2024 – present</b></summary>
-<br />
-
-- 💬 Multi-agent **Telegram platform** with LLM, image and video generation — 3,500+ active users.
-- 🗃 **Text-to-SQL** system on GPT + prompt engineering, deployed for public-sector analytics.
-- 🏠 Real-estate valuation model on **CatBoost** (150,000+ listings) — MAPE 8.3%.
-- 🏋️ CV model for exercise-form scoring: pose estimation (MediaPipe), PCK@0.2 = 89% across 5 exercise types.
-
-`Python` `GPT-4` `LangChain` `CatBoost` `MediaPipe` `scikit-learn` `PostgreSQL`
-</details>
+`Python` `PyTorch` `CatBoost` `Gemma` `GPT-4` `LangChain` `UNet++` `Qdrant` `FastAPI` `Docker`
 
 <br />
 
@@ -84,15 +59,15 @@ Full-cycle CV pipeline for a mobile app, from R&D to production.
 
 **LLM / NLP**
 <br />
-![GPT-4](https://img.shields.io/badge/GPT--4-1A1A1A?style=flat-square) ![Gemma](https://img.shields.io/badge/Gemma-1A1A1A?style=flat-square) ![LLaMA](https://img.shields.io/badge/LLaMA-1A1A1A?style=flat-square) ![LangChain](https://img.shields.io/badge/LangChain-1A1A1A?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-1A1A1A?style=flat-square) ![Text-to-SQL](https://img.shields.io/badge/Text--to--SQL-1A1A1A?style=flat-square) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-1A1A1A?style=flat-square) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-1A1A1A?style=flat-square) ![Agents](https://img.shields.io/badge/Agents-1A1A1A?style=flat-square)
+![GPT-4](https://img.shields.io/badge/GPT--4-1A1A1A?style=flat-square) ![LangChain](https://img.shields.io/badge/LangChain-1A1A1A?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-1A1A1A?style=flat-square) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-1A1A1A?style=flat-square)
 
 **Computer Vision**
 <br />
-![YOLOv8](https://img.shields.io/badge/YOLOv8-1A1A1A?style=flat-square) ![UNet++](https://img.shields.io/badge/UNet%2B%2B-1A1A1A?style=flat-square) ![SAM](https://img.shields.io/badge/SAM-1A1A1A?style=flat-square) ![MediaPipe](https://img.shields.io/badge/MediaPipe-1A1A1A?style=flat-square) ![GAN](https://img.shields.io/badge/GAN-1A1A1A?style=flat-square)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-1A1A1A?style=flat-square) ![UNet++](https://img.shields.io/badge/UNet%2B%2B-1A1A1A?style=flat-square) ![SAM](https://img.shields.io/badge/SAM-1A1A1A?style=flat-square) ![GAN](https://img.shields.io/badge/GAN-1A1A1A?style=flat-square)
 
 **MLOps / Data**
 <br />
-![CatBoost](https://img.shields.io/badge/CatBoost-1A1A1A?style=flat-square) ![DVC](https://img.shields.io/badge/DVC-1A1A1A?style=flat-square) ![W&B](https://img.shields.io/badge/W%26B-1A1A1A?style=flat-square) ![MLflow](https://img.shields.io/badge/MLflow-1A1A1A?style=flat-square) ![Airflow](https://img.shields.io/badge/Airflow-1A1A1A?style=flat-square) ![ClickHouse](https://img.shields.io/badge/ClickHouse-1A1A1A?style=flat-square) ![Qdrant](https://img.shields.io/badge/Qdrant-1A1A1A?style=flat-square) ![Yandex Cloud](https://img.shields.io/badge/Yandex_Cloud-1A1A1A?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-1A1A1A?style=flat-square)
+![CatBoost](https://img.shields.io/badge/CatBoost-1A1A1A?style=flat-square) ![W&B](https://img.shields.io/badge/W%26B-1A1A1A?style=flat-square) ![ClickHouse](https://img.shields.io/badge/ClickHouse-1A1A1A?style=flat-square) ![Qdrant](https://img.shields.io/badge/Qdrant-1A1A1A?style=flat-square) ![Yandex Cloud](https://img.shields.io/badge/Yandex_Cloud-1A1A1A?style=flat-square)
 
 <br />
 
@@ -123,12 +98,6 @@ Full-cycle CV pipeline for a mobile app, from R&D to production.
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Uutotora&theme=radical&no-frame=true&row=1&column=6&margin-w=8" alt="Trophies" />
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Uutotora/Uutotora/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Uutotora/Uutotora/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Uutotora/Uutotora/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
 
 <br />
 
